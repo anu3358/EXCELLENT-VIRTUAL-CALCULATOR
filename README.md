@@ -1,16 +1,27 @@
 # EXCELLENT-VIRTUAL-CALCULATOR
 🚀✨ ULTIMATE PYTHON CALCULATOR EXPERIENCE ✨🚀
+
+
+
 A project by -->ANURAG SAINI-<— redefining how Python calculators should feel!
 🎨 Not Just a Calculator... It’s a Terminal Masterpiece
+
+
 This is not your boring, traditional calculator.
 It’s a nostalgic fusion of Python logic and retro digital art — an experience, not just a tool.
+
+
 
 Every symbol. Every line of ASCII. Every interaction.
 Crafted with care.
 Coded with creativity.
 Designed to give you joy while you calculate.
 
+
+
 Imagine your terminal glowing with the energy of an old-school calculator infused with the power of Python!
+
+
 
 🎯 WHY THIS STANDS OUT
 💡 Minimalist Code. Maximalist Feel.
@@ -20,10 +31,16 @@ Imagine your terminal glowing with the energy of an old-school calculator infuse
 💬 It talks back to you. Literally.
 🌀 Recursion meets user flow: Start again, or keep going infinitely.
 
+
+
+
 🔥 TRY IT YOURSELF — FEEL THE DIFFERENCE
 👉 Click here to launch the demo now! 👈
 This link gives you a real-time experience of how such logic works in action.
 Though it's not the exact replica, it gives you a taste — and it’ll make you want to clone this project immediately.
+
+
+
 
 🙌 BUILT WITH LOVE BY:
 🎓 ANURAG SAINI
